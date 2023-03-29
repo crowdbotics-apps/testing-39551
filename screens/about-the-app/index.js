@@ -44,7 +44,8 @@ const styles = StyleSheet.create({
     fontSize: 14,
     textAlign: "justify",
     lineHeight: 18,
-    marginVertical: 10
+    marginVertical: 10,
+    position: "relative"
   }
 });
 export default AboutTheAppScreen;
